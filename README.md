@@ -1,9 +1,9 @@
-# 📝 BORRADOR TFM - BilingualMind
+# BORRADOR TFM - BilingualMind
 
-**🔗 ENLACE PÚBLICO:** https://github.com/tu-usuario/TFM-BilingualMind-Borrador
+ ENLACE PÚBLICO:https://github.com/tu-usuario/TFM-BilingualMind-Borrador
 
-**Colaboradores:**
-- Gema Domínguez Polo** (Autor)
+Colaboradores:
+- Gema Domínguez Polo (Autor)
 - Juan Manuel Moreno Lamparero (Tutor) - [ Invitado]
 
 
